@@ -63,9 +63,9 @@ Inside a session, `/plugin install gt-protocol --marketplace iconic-tm/mcp_plugi
 3. Run: `codex mcp login gt-protocol`. GT App opens: sign in and click Allow
 4. Start a new session with `codex` and type /mcp to check the connection
 
-## Trading
+## What it can and cannot do
 
-Demo (paper) is the default. Before a live bot or trade, the AI shows you its settings and places it only after you confirm. Backtests include fees and slippage; a past result is not a forecast.
+It reads market data, GT's signals, your bots, deals and balances, runs backtests, and runs paper bots on simulated funds. It cannot place live orders, start or stop live bots, or move funds. Your exchange API keys stay in GT App. Backtests model fees and slippage; simulated results do not predict future results. Nothing here is investment advice.
 
 ## Support
 
