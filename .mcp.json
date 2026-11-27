@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "gt-protocol": {
+      "type": "http",
+      "url": "https://mcp.gt-protocol.io/mcp"
+    }
+  }
+}

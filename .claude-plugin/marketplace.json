@@ -1,0 +1,12 @@
+{
+  "name": "gt-protocol",
+  "owner": { "name": "GT Protocol", "url": "https://www.gt-protocol.io" },
+  "description": "GT App (GT Protocol) for Claude Code and Codex",
+  "plugins": [
+    {
+      "name": "gt-protocol",
+      "source": "./",
+      "description": "Connect GT App (GT Protocol): your trading bots on Binance and Hyperliquid, deals, balances, market data and backtests."
+    }
+  ]
+}

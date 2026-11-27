@@ -1,0 +1,15 @@
+{
+  "name": "gt-protocol",
+  "displayName": "GT Protocol",
+  "version": "1.0.0",
+  "description": "Connect GT App (GT Protocol): your trading bots on Binance and Hyperliquid, deals, balances, market data and backtests.",
+  "author": { "name": "GT Protocol", "url": "https://www.gt-protocol.io" },
+  "homepage": "https://www.gt-protocol.io/learn/connect-gt-app-to-claude-chatgpt-codex/",
+  "repository": "https://github.com/iconic-tm/mcp_plugin",
+  "license": "MIT",
+  "keywords": ["trading", "crypto", "trading-bots", "binance", "hyperliquid", "backtest"],
+  "documentationUrl": "https://www.gt-protocol.io/learn/connect-gt-app-to-claude-chatgpt-codex/",
+  "supportUrl": "https://www.gt-protocol.io/contacts/",
+  "privacyPolicyUrl": "https://www.gt-protocol.io/privacy-policy/",
+  "termsOfServiceUrl": "https://www.gt-protocol.io/terms-of-service/"
+}
